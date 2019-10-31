@@ -1,0 +1,56 @@
+1.  Setup Package
+  1.1 Assemble Materials
+    1.1.1 Get Shipment
+    1.1.2 Get Box
+    1.1.3 Get Label
+    1.1.4 Get Tape
+    1.1.5 Get Packing Peanuts
+  1.2 Build Package
+    1.2.1 Build Box
+    1.2.2 Put Item in Box
+    1.2.3 Put Packing Peanuts in Box
+    1.2.4 Close Box
+  1.3 Ready Package for Shipping
+    1.3.1 Tape Box
+    1.3.2 Attached Label
+    1.3.3 Write Label
+      1.3.3.1 Write Address
+      1.3.3.2 Write Return Address
+2.  Go to Post Office
+  2.1 Ready to Leave
+    2.1.1 Get Car Keys
+    2.1.2 Get Wallet
+    2.1.3 Put on Shoes
+      2.1.3.1 Put Feet in Shoes
+      2.1.3.2 Tie Shoes
+    2.1.4 Go to Car
+  2.2 Ready Car
+    2.2.1 Get In Car
+      2.2.1.1 Open Car Door
+      2.2.1.2 Get in Driver Seat
+      2.2.1.3 Close Driver Door
+    2.2.2 Start Car
+      2.2.2.1 Put Key in Ignition
+      2.2.2.2 Turn Key
+    2.2.3 Drive Car
+      2.2.3.1 Reverse out of Drive Way
+      2.2.3.2 Drive to Post Office
+3.  At Post Office
+  3.1 Get Out of Car
+    3.1.1 Turn off car
+    3.1.2 Open Driver Door
+    3.1.3 Get out of Driver Seat
+    3.1.4 Close Driver Door
+  3.2 Go into Post Office
+    3.2.1 Walk to Door
+    3.2.2 Open Door
+    3.2.3 Wait in Line
+  3.3 Ship Package
+    3.3.1 Hand Package Over
+    3.3.2 Package is Weighed
+    3.3.3 Pay for Shipping
+      3.3.3.1 Get Out Wallet
+      3.3.3.2 Hand Over Money
+      3.3.3.3 Put Wallet Back
+    3.3.4 Get Tracking Number
+END
